@@ -1,0 +1,27 @@
+body {
+	  background-color: #5D0B66;
+}
+h1{
+	size:24px;
+	color:DEB887;
+	float:left;
+	margin-top: 100px;
+}
+#SkypeButton_Dropdown_jnic10_1{
+	float: left;
+	margin-top: 100px;
+}
+h2{
+	size:24px;
+	color:B22222;
+	float:left;
+	margin-top: 50px;
+
+}
+#SkypeButton_Dropdown_dylan.chance_1{
+	float:left;
+	margin-top: 50px;
+}
+.clearer{
+	clear: both;
+}
